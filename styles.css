@@ -55,7 +55,12 @@ table {
 
 
 /* Header */
-
+styledimg {
+    background-image: url(https://th.bing.com/th/id/R.fbd3110ba3a5f2e0dcbd878ebff4a575?rik=rLj0kdtp0dGIHQ&riu=http%3a%2f%2fwww.conveyancingpro.co.uk%2fwp-content%2fuploads%2f2017%2f09%2fstrike-logo.jpg&ehk=gC9umZSZiTKdRQwHyqiPhrGHJvP%2f8lj0emU%2f1edsfAE%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 90px;
+    }
 
 /* Hero */
 
